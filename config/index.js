@@ -6,12 +6,12 @@ export const config = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: "",
+  APP_ID: "wxc9aed0d995edced0",
 
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: "",
+  APP_SECRET: "47888c808045e71f2396b327c20d272f",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
@@ -31,11 +31,11 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "陈文泽",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ogGRg6avgLO8S5XUkOd6pNbppZAc",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "uCGE5pQTbFyeT4QIbpZOtr5sBotqZGyZeUQwPXXEfgw	",
+      useTemplateId: "uCGE5pQTbFyeT4QIbpZOtr5sBotqZGyZeUQwPXXEfgw",
       // 所在省份
       province: "广东",
       // 所在城市
