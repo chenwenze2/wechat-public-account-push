@@ -26,7 +26,7 @@ export const getColor = () => {
 }
 
 export const getColor1 = () =>{
-  return `#${ Math.floor(Math.random() * 255105180).toString(16)}`
+  return `#${ Math.floor(Math.random() * 255105180).toString(16).padEnd(6, '0') }`
 }
 
 /**
