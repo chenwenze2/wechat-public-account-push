@@ -24,9 +24,6 @@ export const toLowerLine = (str) => {
 export const getColor = () => {
   return `#${(0x00EEEE).toString(16).padEnd(6, '0') }`
 }
-export const getCCC = () =>{
-  return `#${(0xFF69B4).toString(16).padEnd(6, '0') }`
-}
 /**
  * 生成一个从min 到 max 的随机数
  * @param {*} min
