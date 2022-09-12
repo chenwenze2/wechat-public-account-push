@@ -22,8 +22,14 @@ export const toLowerLine = (str) => {
  * @returns
  */
 export const getColor = () => {
-  return `#${ Math.floor(Math.random() * 0xffffff).toString(16).padEnd(6, '0') }`
-}
+  var i = Math.random()*3;
+  if (i===1){
+    return `#${ Math.floor(Math.random() * 0xffffff).toString(16).padEnd(6, '0') }`
+  }else if (i===2){
+    return `#${ Math.floor(Math.random() * 0xffffff).toString(16).padEnd(6, '0') }`
+  }else {
+    return `#${ Math.floor(Math.random() * 0xffffff).toString(16).padEnd(6, '0') }`
+  }
 /**
  * 生成一个从min 到 max 的随机数
  * @param {*} min
