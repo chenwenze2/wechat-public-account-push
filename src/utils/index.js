@@ -22,7 +22,7 @@ export const toLowerLine = (str) => {
  * @returns
  */
 export const getColor = () => {
-  var i = Math.random()*3;
+  var i = parseInt(Math.random()*3);
   if (i===1){
     return `#${ (0xFFC0CB).toString(16).padEnd(6, '0') }`
   }else if (i===2){
