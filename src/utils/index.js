@@ -25,10 +25,6 @@ export const getColor = () => {
   return `#${ Math.floor(Math.random() * 0xffffff).toString(16).padEnd(6, '0') }`
 }
 
-export const getColor1 = () =>{
-  return `#${ Math.floor(Math.random() * 255105180).toString(16).padEnd(6, '0') }`
-}
-
 /**
  * 生成一个从min 到 max 的随机数
  * @param {*} min
