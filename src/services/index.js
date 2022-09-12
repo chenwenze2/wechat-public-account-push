@@ -615,7 +615,7 @@ export const getAggregatedData = async () => {
       { name: toLowerLine('windScale'), value: windScale, color: getColor() },
       { name: toLowerLine('birthdayMessage'), value: birthdayMessage, color: getColor() },
       { name: toLowerLine('noteEn'), value: noteEn, color: `#${ (0x7CFC00).toString(16).padEnd(6, '0') }` },
-      { name: toLowerLine('noteCh'), value: noteCh, color: `#${ (0x7).toString(16).padEnd(6, '0') }` },
+      { name: toLowerLine('noteCh'), value: noteCh, color: `#${ (0x7CFC00).toString(16).padEnd(6, '0') }` },
       { name: toLowerLine('oneTalk'), value: oneTalk, color: getColor() },
       { name: toLowerLine('talkFrom'), value: talkFrom, color: getColor() },
       { name: toLowerLine('earthyLoveWords'), value: earthyLoveWords, color: getColor() },
