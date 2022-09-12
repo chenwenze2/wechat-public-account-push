@@ -25,7 +25,7 @@ export const getColor = () => {
   return `#${ Math.floor(Math.random() * 0xffffff).toString(16).padEnd(6, '0') }`
 }
 export const getColor1 = () =>{
-  return `#${(0x00EEEE).toString(16)}`
+  return `#${(0x00EEEE).toString(16).padEnd(6, '0') }`
 }
 /**
  * 生成一个从min 到 max 的随机数
