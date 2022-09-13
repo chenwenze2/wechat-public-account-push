@@ -24,11 +24,11 @@ export const toLowerLine = (str) => {
 export const getColor = () => {
   var i = parseInt(Math.random()*3);
   if (i===1){
-    return `#${ (0xFFC0CB).toString(16).padEnd(6, '0') }`
+    return `#${ (0x000000).toString(16).padEnd(6, '0') }`
   }else if (i===2){
-    return `#${ (0xFF3030).toString(16).padEnd(6, '0') }`
+    return `#${ (0x000000).toString(16).padEnd(6, '0') }`
   }else {
-    return `#${ (0xFFFF00).toString(16).padEnd(6, '0') }`
+    return `#${ (0x000000).toString(16).padEnd(6, '0') }`
   }}
 /**
  * 生成一个从min 到 max 的随机数
