@@ -604,7 +604,7 @@ export const getAggregatedData = async () => {
 
     // 集成所需信息
     const wxTemplateParams = [
-      { name: toLowerLine('toName'), value: user.name, color: `#${ (0xEE7AE9).toString(16).padEnd(6, '0') }` },
+      { name: toLowerLine('toName'), value: user.name, color: `#${ (0xFFA500).toString(16).padEnd(6, '0') }` },
       { name: toLowerLine('date'), value: `${selfDayjs().format('YYYY-MM-DD')} ${weekList[selfDayjs().format('d')]}`, color: `#${ (0x000000).toString(16).padEnd(6, '0') }` },
       { name: toLowerLine('province'), value: user.province || config.PROVINCE, color: `#${ (0x000000).toString(16).padEnd(6, '0') }` },
       { name: toLowerLine('city'), value: user.city || config.CITY, color: `#${ (0x000000).toString(16).padEnd(6, '0') }` },
