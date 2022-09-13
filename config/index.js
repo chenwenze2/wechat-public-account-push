@@ -45,7 +45,7 @@ export const config = {
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
       horoscopeDateType: '今日',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "http://m.qpic.cn/psc?/V10IszwF0liO7K/ruAMsa53pVQWN7FLK88i5nj*AXgZBiP4mXhcYFsZOejwP2vV3D9IgANt.sYaWonYTuZSKdKIXTDbxel46j8EykRRT1yZ8hoK4TFvwuClEAE!/b&bo=oAU4BAAAAAABB7k!&rf=viewer_4",
+      openUrl: "https://img-blog.csdnimg.cn/83c85b4d711a4b8bb9553f83b0d6a252.jpeg",
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
