@@ -70,7 +70,7 @@ export const config = {
     {
       name: "梦圆~早上好！",
       id: "ocIl75uzu4lvBc-by7rRx8OHoCQ0",
-      useTemplateId: "THVKbcW8MWonvOORwC-o9S2pnFfg-tDR6-uV7on1trc",
+      useTemplateId: "A2lNgLQV0g3ub2PiLu75Pr7lpyJ7snMv2PQadXAdigs",
       province: "中国",
       city: "天津",
       horoscopeDate: '',
