@@ -77,13 +77,14 @@ export const config = {
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
       festivals: [
-        {"type": "*生日", "name": "圓圓", "year": "2002", "date": "10-07"},
-        {"type": "生日", "name": "圓圓", "year": "2002", "date": "11-11"},
+        {"type": "*生日", "name": "圓圓阴历", "year": "2002", "date": "10-07"},
+        {"type": "生日", "name": "圓圓阳历", "year": "2002", "date": "11-11"},
         {"type": "节日", "name": "新年", "year": "2023", "date": "12-30"},
       ],
       customizedDateList: [
         
         {"keyword": "marry_day", date: "2002-11-11"},
+        {"keyword": "marry_day", date: "2018-09-01"},
       ]
     },
     {
