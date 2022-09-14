@@ -6,14 +6,12 @@ export const config = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: "wx05051de943368ad4",
-  APP_ID: "wx6fbb351baa9b7ec7",
+  APP_ID: "wxc9aed0d995edced0",
 
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: "37acd21f9c5511d3643868f16ff14ca9",
-  APP_SECRET: "1b82d63171cd965ab3a66e4abea4826e",
+  APP_SECRET: "47888c808045e71f2396b327c20d272f",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
@@ -35,9 +33,9 @@ export const config = {
       // 想要发送的人的名字
       name: "晓楠~早上好！",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oTV4j51QBWGaw3fRZWw0P9F-H6K8",
+      id: "ogGRg6V_7nhdHHIp9x11c12fkE0k",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "CodU625oo60Tie7dcuC9bF3gSYDhIBoJ2_d8p-F1ulY",
+      useTemplateId: "IHcdVKr9gJJtw8Ppz5TMSzzPKjFRwcuCjY7ikQM3I_0",
       // 所在省份
       province: "辽宁",
       // 所在城市
@@ -69,8 +67,8 @@ export const config = {
     },
     {
       name: "梦圆~早上好！",
-      id: "ocIl75uzu4lvBc-by7rRx8OHoCQ0",
-      useTemplateId: "A2lNgLQV0g3ub2PiLu75Pr7lpyJ7snMv2PQadXAdigs",
+      id: "ogGRg6V2GZDf1DgZYaKOW8hq7kNk",
+      useTemplateId: "9WGQ16BoyoWFjJ8Chi8x1GthaZ9vKG6wnB_2O91nuzk",
       province: "中国",
       city: "天津",
       horoscopeDate: '',
@@ -84,7 +82,7 @@ export const config = {
       customizedDateList: [
         
         {"keyword": "marry_day", date: "2002-11-11"},
-        {"keyword": "love_day", date: "2018-09-01"},
+        {"keyword": "love_day", date: "2020-09-01"},
       ]
     },
     {
