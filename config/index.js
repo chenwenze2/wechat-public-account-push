@@ -84,7 +84,7 @@ export const config = {
       customizedDateList: [
         
         {"keyword": "marry_day", date: "2002-11-11"},
-        {"keyword": "marry_day", date: "2018-09-01"},
+        {"keyword": "love_day", date: "2018-09-01"},
       ]
     },
     {
