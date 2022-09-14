@@ -70,7 +70,7 @@ export const config = {
     {
       name: "夏梦圆",
       id: "ocIl75uzu4lvBc-by7rRx8OHoCQ0",
-      useTemplateId: "6ZHHIUMqVR7epIs0_QibftLyysvbifUr8EpIz2bnAU4",
+      useTemplateId: "THVKbcW8MWonvOORwC-o9S2pnFfg-tDR6-uV7on1trc",
       province: "中国",
       city: "天津",
       horoscopeDate: '',
