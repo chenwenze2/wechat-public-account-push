@@ -72,7 +72,7 @@ export const config = {
       province: "中国",
       city: "天津",
       horoscopeDate: '',
-      horoscopeDateType: '',
+      horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
       festivals: [
         {"type": "*生日", "name": "圓圓阴历", "year": "2002", "date": "10-07"},
