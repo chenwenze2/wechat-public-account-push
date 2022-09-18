@@ -66,26 +66,6 @@ export const config = {
       ]
     },
     {
-      name: "梦圆~早上好！",
-      id: "ogGRg6avgLO8S5XUkOd6pNbppZAc",
-      useTemplateId: "9WGQ16BoyoWFjJ8Chi8x1GthaZ9vKG6wnB_2O91nuzk",
-      province: "中国",
-      city: "天津",
-      horoscopeDate: '',
-      horoscopeDateType: '今日',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [
-        {"type": "*生日", "name": "圓圓阴历", "year": "2002", "date": "10-07"},
-        {"type": "生日", "name": "圓圓阳历", "year": "2002", "date": "11-11"},
-        {"type": "节日", "name": "新年", "year": "2023", "date": "12-30"},
-      ],
-      customizedDateList: [
-        
-        {"keyword": "marry_day", date: "2002-11-11"},
-        {"keyword": "love_day", date: "2020-09-01"},
-      ]
-    },
-    {
       name: "老婆2",
       id: "",
       useTemplateId: "",
