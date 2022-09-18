@@ -68,7 +68,7 @@ export const config = {
     {
       name: "梦圆~早上好！",
       id: "ogGRg6avgLO8S5XUkOd6pNbppZAc",
-      useTemplateId: "IHcdVKr9gJJtw8Ppz5TMSzzPKjFRwcuCjY7ikQM3I_0",
+      useTemplateId: "9WGQ16BoyoWFjJ8Chi8x1GthaZ9vKG6wnB_2O91nuzk",
       province: "中国",
       city: "天津",
       horoscopeDate: '',
