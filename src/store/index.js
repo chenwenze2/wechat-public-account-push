@@ -34,7 +34,7 @@ export const TYPE_LIST = [
   },
 ]
 
-/**export const DEFAULT_OUTPUT = {
+export const DEFAULT_OUTPUT = {
   noteEn: `Nothing in this world that's worth having comes easy.`,
   noteCh: '这世界上凡是值得拥有的东西，都不易获得。',
   oneTalk: '愿你遍布祖国山河，觉得人生也值得',
@@ -47,12 +47,12 @@ export const TYPE_LIST = [
   poetryTitle: '静夜思',
   poetryContent: '举头望明月，低头思故乡。',
   constellationFortune: '福星高照! 去争取自己想要的一切吧!',
-  weather: '心暖向你',
-  maxTemperature: '爱你的温度℃',
-  minTemperature: '想你的温度℃',
+  weather: '',
+  maxTemperature: '',
+  minTemperature: '',
   windDirection: '朝向你',
   windScale: '100级哦',
-}*/
+}
 
 export const CITY_INFO = {
   "北京": {
