@@ -47,9 +47,9 @@ export const DEFAULT_OUTPUT = {
   poetryTitle: '静夜思',
   poetryContent: '举头望明月，低头思故乡。',
   constellationFortune: '福星高照! 去争取自己想要的一切吧!',
-  weather: '',
-  maxTemperature: '',
-  minTemperature: '',
+  weather: '心暖向你',
+  maxTemperature: '想你的温度°C',
+  minTemperature: '爱你的温度°C',
   windDirection: '朝向你',
   windScale: '100级哦',
 }
